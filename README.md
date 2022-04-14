@@ -1,1 +1,1 @@
-# Ksendzov-course
+# Repository for Ksendzov-course homeworks
